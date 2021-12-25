@@ -6,6 +6,6 @@ hello atguigu
 hello atguigu
 hello atguigu
 hello atguigu 
-hello atguigu hot-fix commit
+hello atguigu master commit
 hello atguigu
 hello atguigu
